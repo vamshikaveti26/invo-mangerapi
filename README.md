@@ -61,3 +61,6 @@ src/
 └── test/java/com/vamshi/inventory/
     └── ProductServiceTest.java
 ```
+## Test Results
+
+![Test Results](docs/test-results.png)

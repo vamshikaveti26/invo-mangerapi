@@ -1,0 +1,4 @@
+com/vamshi/inventory/controller/ProductController.class
+com/vamshi/inventory/service/ProductService.class
+com/vamshi/inventory/repository/ProductRepository.class
+com/vamshi/inventory/model/Product.class
